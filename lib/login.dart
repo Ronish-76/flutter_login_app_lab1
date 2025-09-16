@@ -66,7 +66,7 @@ class LoginPage extends StatelessWidget {
 
               // Links row
               const Text(
-                "Sign Up | Forget Password?",
+                "Sign Up OR Forget Password?",
                 style: TextStyle(color: Colors.black54),
               ),
             ],
